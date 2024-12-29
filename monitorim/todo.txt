@@ -1,0 +1,5 @@
+
+so API  end points 
+
+nr 1 https/api/add/<float>Value/<txt>matese/<txt>SensorName/<dataTime>kohaEleximit/<txt>lokacionoi opsonajkle
+
